@@ -1,4 +1,5 @@
-### Hi there 👋 I am Bidisha Mondal 👩🏻‍💻
+Hi there ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) I am Bidisha Mondal 👩🏻‍💻
+================================================================================================================================
 
 I am a seasoned software professional with five years of industry experience, currently pursuing a Master's degree in Computer Science at Syracuse University. My expertise lies in developing scalable, robust, and intuitive web applications as well as software infrastructure that solve complex real-world problems and enhance user experience.
 
