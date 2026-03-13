@@ -8,8 +8,8 @@ Proficient in Java, Python, JavaScript, React.js, Spring Boot, and AI/ML technol
 Driven by a passion for continuous learning and innovation, I am committed to staying at the forefront of technical innovation. My collaborative spirit, innovative mindset, and proven problem-solving abilities ensure that I deliver impactful software solutions within critical timelines. I am enthusiastic about leveraging my skills and experiences to contribute to forward-thinking projects and drive technological excellence.
 
 - 🏆 Secured second position at the Microsoft Teams Hackathon 2019
-- 📄 Patented a compiler and recommendation engine to support Multiple condition sets in Workflows (for Intuit Inc) - 2412859US · Filed Dec 30, 2023 · Pending Approval
-- 📄 Patented automatic workflow creation using Generative AI in Intuit Quickbooks (for Intuit Inc) - 2312837US · Filed Nov 1, 2023 · Pending Approval
+- 📄 Patented a compiler and recommendation engine to support Multiple condition sets in Workflows (for Intuit Inc) - 12450074 · Granted October 21, 2025 · Granted
+- 📄 Patented automatic workflow creation using Generative AI in Intuit Quickbooks (for Intuit Inc) - 20250139417 · Filed October 26, 2023 · Pending Approval
 - 🎓 Computer Science Master's Student at Syracuse University, NY
 - 👩🏻‍💻 JavaScript | Python | Java | Spring Boot | React.js | TensorFlow | PyTorch | Docker | AWS | AI and ML 
 - ⚡  Wanderlust | Painter 🎨 | Avid Reader 👩🏻‍🏫 and Potterhead 🪄
